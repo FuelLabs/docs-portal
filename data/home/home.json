@@ -35,7 +35,7 @@
         "description": "A guide for building dapps on Fuel network."
       },
       {
-        "href": "https://fuellabs.github.io/fuels-rs/v0.34.0/",
+        "href": "https://fuellabs.github.io/fuels-rs/latest/",
         "title": "Rust SDK",
         "description": "A guide for using Rust to compile, deploy, and test sway contracts."
       },
