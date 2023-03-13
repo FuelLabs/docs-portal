@@ -30,17 +30,17 @@
         "description": "A guide for writing contracts, deploying to Fuel, and building a frontend."
       },
       {
-        "href": "https://github.com/FuelLabs/fuels-ts",
+        "href": "https://fuellabs.github.io/fuels-ts/",
         "title": "Typescript SDK",
         "description": "A guide for building dapps on Fuel network."
       },
       {
-        "href": "https://fuellabs.github.io/fuels-rs/v0.34.0/",
+        "href": "https://fuellabs.github.io/fuels-rs/latest/",
         "title": "Rust SDK",
         "description": "A guide for using Rust to compile, deploy, and test sway contracts."
       },
       {
-        "href": "https://fuel-graphql-docs.vercel.app",
+        "href": "https://graphql-docs.fuel.network/",
         "title": "GraphQL API",
         "description": "A guide for using the Fuel GraphQL API to query the Fuel blockchain."
       }
@@ -80,12 +80,12 @@
         "description": "A book on every aspect of Fuel."
       },
       {
-        "href": "https://fuellabs.github.io/sway/v0.34.0/book/",
+        "href": "https://fuellabs.github.io/sway/latest/",
         "title": "Sway Book",
         "description": "A book on sway, a smart contract programming language."
       },
       {
-        "href": "https://www.fuellabs.github.io/fuelup/v0.16.2/",
+        "href": "https://fuellabs.github.io/fuelup/latest/",
         "title": "Fuelup Book",
         "description": "A book on fuelup - the package manager from official release channels."
       },
