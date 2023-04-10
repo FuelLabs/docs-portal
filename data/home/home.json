@@ -8,7 +8,7 @@
     "title": "Fuel Documentation Portal",
     "description": "Welcome to the Documentation Portal for building applications with Fuel. This portal provides documentation of the Sway language and includes concrete examples to demonstrate how Sway can be used.",
     "primaryButtonLabel": "Installation Guide",
-    "primaryButtonLink": "https://install.fuel.network/v0.18.1/",
+    "primaryButtonLink": "https://install.fuel.network/latest/",
     "secondaryButtonLabel": "Quickstart",
     "secondaryButtonLink": " https://fuellabs.github.io/fuel-docs/master/quickstart/developer-quickstart.html"
   },
@@ -24,18 +24,18 @@
         "description": "A guide to install the Fuel toolchain, and set up your first project."
       },
       {
-        "href": "https://fuellabs.github.io/fuel-docs/master/quickstart/developer-quickstart.html",
+        "href": "https://fuelbook.fuel.network/master/quickstart/developer-quickstart.html",
         "title": "Developer Quickstart",
         "starIcon": "bookmark",
         "description": "A guide for writing contracts, deploying to Fuel, and building a frontend."
       },
       {
-        "href": "https://github.com/FuelLabs/fuels-ts",
+        "href": "https://fuellabs.github.io/fuels-ts/",
         "title": "Typescript SDK",
         "description": "A guide for using Typescript to compile, deploy and test smart contracts on Fuel."
       },
       {
-        "href": "https://fuellabs.github.io/fuels-rs/v0.34.0/",
+        "href": "https://fuellabs.github.io/fuels-rs/latest/",
         "title": "Rust SDK",
         "description": "A guide for using Rust to compile, deploy and test smart contracts on Fuel."
       },
@@ -85,7 +85,7 @@
         "description": "A book on sway, a smart contract programming language."
       },
       {
-        "href": "https://fuellabs.github.io/fuelup/v0.16.2/",
+        "href": "https://fuellabs.github.io/fuelup/latest/",
         "title": "Fuelup Book",
         "description": "A book on fuelup - the package manager from official release channels."
       },
@@ -118,12 +118,12 @@
         "description": "This book specifies the Fuel protocol, including the Fuel Virtual Machine."
       },
       {
-        "href": "https://fuellabs.github.io/sway/v0.34.0/book/reference/",
+        "href": "https://fuellabs.github.io/sway/master/book/reference/",
         "title": "Sway Reference",
         "description": "This book is the primary reference for the sway programming language."
       },
       {
-        "href": "https://fuellabs.github.io/sway/v0.34.0/book/forc/",
+        "href": "https://fuellabs.github.io/sway/master/book/forc/",
         "title": "Forc Reference",
         "description": "A reference guide for forc - the orchestrator manager."
       },
